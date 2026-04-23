@@ -1,0 +1,6 @@
+selenium
+behave
+pytest
+pytest-cov
+pytest-spec
+flask
